@@ -1,2 +1,2 @@
-# Zotov-Java
+# zotov-java
 Test tasks Aston
